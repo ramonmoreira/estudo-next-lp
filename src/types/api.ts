@@ -5,9 +5,7 @@ export type TechIcons = {
   }
 }
 export type Concepts = {
-  concepts: {
-    title: string
-  }
+  title: string
 }
 export type Modules = {
   title: string
