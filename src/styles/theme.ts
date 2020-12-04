@@ -27,7 +27,7 @@ export default {
     mainBg: '#030518',
     boxBg: '#FAFAFA',
     texts: '#030517',
-    white: '#FFFFFF',
+    white: '#fff',
     black: '#000000',
     gray: '#7B7373'
   },
